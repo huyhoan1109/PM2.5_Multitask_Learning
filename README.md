@@ -6,6 +6,7 @@ Base on the multitask-learning neural network created by the Kyoto University's 
 
 ## Abstract
 The dataset is available on this [link](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data) 
+
 Firstly, the model extracts the necessary informations of other factors like O2's concentration, amount of rain, temperature, wind speed, ... After learning the above latent data, it is cooperated with PM2.5's time series to predict future PM2.5's concentration.
 
 ## Tech
