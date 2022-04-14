@@ -15,12 +15,11 @@ The project requires libraries and frameworks to be installed to work properly:
 - [Sklearn](https://scikit-learn.org/stable/)
 
 Install the project 
-```
-git clone https://github.com/huyhoan1109/PM2.5_Multitask_Learning
-```
-```
-cd /PM2.5_Multitask_Learning
-```
+
+```git clone https://github.com/huyhoan1109/PM2.5_Multitask_Learning```
+
+```cd /PM2.5_Multitask_Learning```
+
 Run ```python ./main```
 
 ## Future
