@@ -9,11 +9,18 @@ The dataset is available on this [link](https://archive.ics.uci.edu/ml/datasets/
 ## Abstract
 Firstly, the model extracts the necessary informations of other factors like O2's concentration, amount of rain, temperature, wind speed, etc. After learning the above latent data, it is cooperated with PM2.5's time series to predict future PM2.5's concentration.
 
-## Tech
+## Installation
 The project requires libraries and frameworks to be installed to work properly:
 - [Pytorch](https://pytorch.org)
 - [Sklearn](https://scikit-learn.org/stable/)
 
+Open the terminal 
+Cloning the project
+```
+git clone https://github.com/huyhoan1109/PM2.5_Multitask_Learning
+```
+and ```cd /PM2.5_Multitask_Learning```
+Run ```python ./main```
 ## Future
 - Deploying on a server
 - Cooperating with other kinds of models
