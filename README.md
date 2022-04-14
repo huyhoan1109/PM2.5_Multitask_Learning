@@ -15,5 +15,5 @@ The project requires libraries and frameworks to be installed to work properly:
 - [Sklearn](https://scikit-learn.org/stable/)
 
 ## Future
+- Cooperating with other kinds of models (Ensemble learning)
 - Deploying on a server
-- Cooperating with other kinds of models
