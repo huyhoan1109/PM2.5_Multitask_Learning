@@ -14,7 +14,7 @@ The project requires libraries and frameworks to be installed to work properly:
 - [Pytorch](https://pytorch.org)
 - [Sklearn](https://scikit-learn.org/stable/)
 
-Cloning the project 
+Install the project 
 ```
 git clone https://github.com/huyhoan1109/PM2.5_Multitask_Learning
 ```
