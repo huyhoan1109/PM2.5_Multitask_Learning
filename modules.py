@@ -24,4 +24,3 @@ lr = 0.001
 lr_decay = 0.0001
 w_decay = 0.0001
 batch_size = 64
-
