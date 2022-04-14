@@ -20,7 +20,9 @@ Cloning the project
 git clone https://github.com/huyhoan1109/PM2.5_Multitask_Learning
 ```
 and ```cd /PM2.5_Multitask_Learning```
+
 Run ```python ./main```
+
 ## Future
 - Deploying on a server
 - Cooperating with other kinds of models
