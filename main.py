@@ -1,10 +1,11 @@
 from process import *
 from models import model1, model2
-
 import os
+
 def get_name(net):
     vnames = [name for name in globals() if globals()[name] is net]
     return vnames[0]
+
 def train(ae_net, multi_net, loader_ae, loader_multi, save=True):
     if not os.path.exists('./savemodel/latent.pth'):
     # Train AutoEncoder
