@@ -9,9 +9,10 @@ import os
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
+import matplotlib.pyplot as plt
 import warnings
-warnings.filterwarnings('ignore')
 
+warnings.filterwarnings('ignore')
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 epochs = 100

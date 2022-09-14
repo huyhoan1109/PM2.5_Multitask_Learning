@@ -1,4 +1,4 @@
-from modules import *
+from config import *
 
 DIR = './data/'
 
